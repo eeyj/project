@@ -10,7 +10,7 @@
 </head>
 <body>
 	<nav class="navbar navbar-default">
-		<div class=navbar-header">
+		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example=navbar-collapse-1" aria-expanded="false">
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
@@ -43,7 +43,7 @@
 				<form method="post" action="loginAction.jsp">
 					<h3 style="text-align: center;">로그인 화면</h3>
 					<div class="form-group">
-						<input type="text" class="form-control" placeholder="아이디" name="userId" maxlength="20">
+						<input type="text" class="form-control" placeholder="아이디" name="userID" maxlength="20">
 					</div>
 					<div class="form-group">
 						<input type="password" class="form-control" placeholder="비밀번호" name="userPassword" maxlength="20">
